@@ -1,0 +1,13 @@
+name: mips-instruction-decoder
+version: 0.1.0
+
+authors:
+  - Denys Vitali <denys.vitali@coelis.ch>
+
+targets:
+  mips-instruction-decoder:
+    main: src/mips-instruction-decoder.cr
+
+crystal: 0.20.5
+
+license: MIT
