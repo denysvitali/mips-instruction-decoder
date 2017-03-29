@@ -22,4 +22,4 @@ Crystal >= 0.21.1
 
 ## Contributors
 
-- [denysvitali](https://github.com/[denysvitali]) Denys Vitali - creator, maintainer
+- [denysvitali](https://github.com/denysvitali) Denys Vitali - creator, maintainer
